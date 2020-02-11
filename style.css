@@ -1,0 +1,31 @@
+h1{
+    font-family: Brush Script MT;
+    color:white;
+    background-color: blue;
+    text-align: centers;
+}
+h2{
+    font-family:areial;
+}
+p{
+    font-family: Brush Script MT;
+    color:white;
+    background-color: blue;
+    text-align: centers;
+    text-decoration: red;
+    font-size:25px;
+}
+div{
+    height: 300px;
+    width:200px;
+    background: url(img1.jpeg);
+    color:white;
+}
+
+p.two{
+    background: green;
+    }
+div.one{
+    background-color: blanchedalmond;
+    color:black
+}
